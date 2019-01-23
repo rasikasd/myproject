@@ -13,4 +13,4 @@ Run the following command
 It will Create the table jobfair_user in the database. Now add row with username and password (Bcryptencoded)
 
 # To see Output
-In Browser open link as http://locahot:8080
+In Browser open link as localhost:8080
